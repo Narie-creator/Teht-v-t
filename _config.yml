@@ -1,5 +1,4 @@
 title: "Github Tehtävä"
 description: "Tämä on kurssitehtäväsivusto, joka käyttää Jekyll-teemaa."
 url: "https://narie-creator.github.io/Teht-v-t/"
-baseurl: "https://github.com/Narie-creator/Teht-v-t/blob/04cb7859703c2ef7d4e1973cf8ab990f38df3378/index.html"
 theme: jekyll-theme-cayman
